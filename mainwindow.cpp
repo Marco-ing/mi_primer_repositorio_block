@@ -10,6 +10,7 @@ MainWindow::MainWindow(QWidget *parent) :
 {
     ui->setupUi(this);
     setCentralWidget(ui->plainTextEdit);
+    QMessageBox::information(this,"Informacion","Espero y te guste mi programa");
 }
 
 MainWindow::~MainWindow()
