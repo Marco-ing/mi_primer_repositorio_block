@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>abrir.png</file>
+        <file>copiar.png</file>
+        <file>guarda.png</file>
+        <file>pegar.png</file>
+        <file>NotasMark.png</file>
+    </qresource>
+</RCC>
